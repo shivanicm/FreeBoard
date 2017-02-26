@@ -4,4 +4,6 @@ shivanicm: videofeed drawing integration
 jackielwu: gesture location tracking
   		  
 #### Library
-handGesturesCV from: simena86.
+[handDetectionCV][cv] from: simena86.
+
+[cv]: https://github.com/simena86/handDetectionCV
