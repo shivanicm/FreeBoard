@@ -19,7 +19,7 @@ This project is a virtual whiteboard where the user can draw using their fingers
 
 
 ## Contributor Guide
-[LINK TO CONTRIBUTING.md]
+[https://github.com/shivanicm/FreeBoard/blob/master/CONTRIBUTING.md]
 
 ## License 
 Copyright 2017 shivanicm
