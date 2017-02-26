@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( FreeBoard )
+find_package( OpenCV )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( FreeBoard main.cpp myImage.cpp handGesture.cpp roi.cpp )
+target_link_libraries( FreeBoard ${OpenCV_LIBS} )
