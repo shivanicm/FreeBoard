@@ -1,4 +1,6 @@
-####shivanicm: videofeed drawing integration
-####jackielwu: gesture location tracking
-
-####integration of hand gestures recognition library from: simena86.
++#### Contributors
+shivanicm: videofeed drawing integration
+jackielwu: gesture location tracking
+  		  
+#### Library
+handGesturesCV from: simena86.
