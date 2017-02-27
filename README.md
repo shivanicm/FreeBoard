@@ -1,6 +1,6 @@
 # [FreeBoard]
 
-A gesture senstitive virtual whiteboard. Simply use your fingers to draw letters, numbers, and shapes! 
+A gesture sensitive virtual whiteboard. Simply use your fingers to draw letters, numbers, and shapes! 
 The project utilizes the hand gestures recognition library from simena86.
   *  Recognize hand and fingers
   *  Draw lines with fingers
